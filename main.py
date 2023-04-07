@@ -10,9 +10,9 @@
 #print(grades)
 
 
-def count_average(grades):
+#def count_average(grades):
 
-    pass
+    #pass
 
 
 
@@ -198,11 +198,3 @@ print(reviewer_1)
 print(lecturer_1)
 print(student_1 > student_2)
 print(lecturer_1 > lecturer_2)
-
-
-
-
-
-#average_rating_student_course([student_1, student_2], 'Python')
-
-#average_rating_lecturer_course([lecturer_1, lecturer_2], 'Python')
